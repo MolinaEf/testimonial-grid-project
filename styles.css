@@ -30,7 +30,7 @@ main{
 .background{
     height: clamp(100vh, 100vh, auto);
     width: 100%;
-    background-color: var(--light-gray);
+    background-color: var(--light-grayish-blue);
     display: flex;
     justify-content: center;
     align-items: center;

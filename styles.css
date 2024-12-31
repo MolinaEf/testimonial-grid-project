@@ -121,21 +121,21 @@ main{
 
 .graduate-name{
     font-weight: 500;
-    font-size: 0.9rem;
+    font-size: 0.85rem;
 }
 
 .verified-graduate{
     font-weight: 500;
-    font-size: 0.77rem;
+    font-size: 0.74rem;
 }
 
 h3{
-    font-size: 1.3rem;
+    font-size: 1.25rem;
     margin-bottom: 1rem;
 }
 
 .testimonial{
-    font-size: 0.8rem;
+    font-size: 0.75rem;
     line-height: 1.5;
 }
 

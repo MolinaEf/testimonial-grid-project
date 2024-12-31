@@ -28,7 +28,7 @@ main{
 }
 
 .background{
-    height: clamp(100vh, 100vh, auto);
+    min-height:100%;
     width: 100%;
     background-color: var(--light-grayish-blue);
     display: flex;
